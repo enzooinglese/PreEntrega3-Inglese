@@ -1,0 +1,16 @@
+.presupuesto{
+    background-color: red;
+    height: auto;
+}
+.precio{
+    background-color: yellow;
+    height: auto;
+}
+.pago{
+    background-color: green;
+    height: auto;
+}
+.incluye{
+    background-color: blueviolet;
+    height: auto;
+}

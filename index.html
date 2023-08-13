@@ -5,20 +5,27 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
-    
+    <link rel="stylesheet" href="styles.css">
+    <script async src="index.js"></script>
 </head>
 <body>
-    <main>
-        <section>
             <h1>Opciones de servicio de decoraciones</h1>
             <p>A - Candy Bar Simple</p>
             <p>B - Candy Bar con Decoracion</p>
             <p>C - Decoracion Basica</p>
             <p>D - Decoracion Media</p>
             <p>E - Decoracion Completa</p>
-        </section>
-    </main>
-
+            <div>
+                <p>Escribir la opcion que desee: Presupuesto - Incluye - Descuentos</p>
+                <form id="opciones">
+                    <input type="text" id="elegir" value="">
+                    <input type="submit" id="btnEnviar" value="Enviar">
+                </form>
+            </div>
+            <div id="presupues" class="presupuesto"></div>
+            <div class="precio" id="precio"></div>
+            <div class="incluye" id="incluye"></div>
+            <div class="pago" id="pago"></div>
 </body>
-<script async src="index.js"></script>
+
 </html>
