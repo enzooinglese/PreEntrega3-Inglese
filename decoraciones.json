@@ -1,0 +1,32 @@
+[
+    {
+    "Id": "A", 
+    "Nombre": "Candy Bar Simple", 
+    "Precio": 6250, 
+    "Incluye": "Mobiliario"
+    },
+    {
+    "Id": "B", 
+    "Nombre": "Candy Bar Con Decoracion", 
+    "Precio": 11900, 
+    "Incluye": "Mobiliario + 50 globos + imagen de la tematica + nombre del agasajado"
+    },
+    {
+    "Id": "C", 
+    "Nombre": "Decoracion Basica", 
+    "Precio": 10000, 
+    "Incluye": "Fondo principal + 4 telas en techo + Banderines de nombre y FC + Globo numero + 40 globos"
+    },
+    {
+    "Id": "D", 
+    "Nombre": "Decoracion Media", 
+    "Precio": 15500, 
+    "Incluye": "Fondo principal con led + 6 telas en techo + Banderines de nombre y FC + Globo numero + 70 globos"
+    },
+    {
+    "Id": "E", 
+    "Nombre": "Decoracion Completa" , 
+    "Precio": 20500, 
+    "Incluye": "Fondo principal con led + 8 telas en techo + Banderines de nombre y FC + Globo numero + 100 globos"
+    }
+]
